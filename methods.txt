@@ -1,0 +1,11 @@
+Preparation of this SKOS COFOG 
+------------------------------
+from original at http://registry.it.csiro.au/def/agldwg/cofog
+
+- removed registry information
+- added inScheme to each Concept
+- added ConceptScheme type to the Registry object
+- removed rtfs:label from concepts (they have skos:prefLabels)
+- converted dct:description properties to skoks:definition for Concepts
+- replaced all hyphens in URIs to make ID parts purely numerical
+ 
