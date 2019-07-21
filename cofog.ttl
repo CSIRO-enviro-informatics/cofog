@@ -2937,7 +2937,7 @@ cofog:04 a skos:Concept ;
     skos:inScheme <http://linked.data.gov.au/def/cofog> ;
     rdfs:label "Classification of the Functions of Government"@en ;
     dct:description "[United Nations Statistics Division](https://unstats.un.org/unsd/iiss/Classification-of-the-Functions-of-Government-COFOG.ashx) - Classification of the Functions of Government"@en ;
-    dct:modified "20180816T04:27:11.047000+00:00"^^xsd:dateTime ;
+    dct:modified "2018-08-16T04:27:11"^^xsd:dateTime ;
     dct:rights "Copyright © United Nations, 2014"^^xsd:string ;
     dct:source "United Nations Statistics Division"^^xsd:string ;
     dct:title "Classification of the Functions of Government"^^xsd:string ;
